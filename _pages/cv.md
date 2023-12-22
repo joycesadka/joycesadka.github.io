@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my full CV [here](https:/joycesadka.github.io/files/joycesadka_cv_2020.pdf)
+You can find my full CV [here](https://joycesadka.github.io/files/joycesadka_cv_2020.pdf)
 
 **Education**
 ---
