@@ -7,53 +7,26 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can find my full CV [here](https:/joycesadka.github.io/files/joycesadka_cv_2020.pdf)
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**Education**
+---
+2001 _Juris Doctor, George Mason University School of Law_
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+1998 _Ph.D., Economics, Rice University_
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Experience**
+---
+2021 - Present _Head of Law Department, ITAM_
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+2018 - 2019 _Interim Head of the Law Department, ITAM, Mexico City_
+
+2017 _Visiting Professor, Melbourne University, Melbourne_
+
+2009 - Present _Professor Law Department, ITAM, Mexico City_
+
+2008 - 2009 _Visiting Professor, Monash University, Melbourne_
+
+2007 - 2017 _Director of the Master's in Economic Theory and Doctorate in Economics, ITAM, Mexico City_
+
+1998 - Present _Professor and Researcher, Centro de Investigación Económica, ITAM, Mexico City_
