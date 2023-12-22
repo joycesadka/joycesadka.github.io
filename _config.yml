@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Joyce Sadka"
-  avatar           : "joyce_1.jpg"
+  avatar           : "joyce_profilepic.jpg"
   bio              : "Head of Law Department and Researcher at the Center for Economic Research (CIE), ITAM"
   location         : "Mexico City, Mexico"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    :  "sites.google.com/view/joyce-sadka/home"
   email            :  "jsadka@itam.mx"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
