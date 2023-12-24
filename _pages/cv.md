@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my full CV [here](https://joycesadka.github.io/files/joycesadka_cv_2020.pdf)
+Mi CV en español está en la siguiente [liga](https://joycesadka.github.io/files/Joyce_Sadka_Spanish_CV_2023.pdf)
 
 **Education**
 ---
