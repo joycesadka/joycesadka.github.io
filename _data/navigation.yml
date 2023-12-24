@@ -3,9 +3,6 @@ main:
     
   - title: "Research"
     url: /research/
-    
-  - #title: "Working Papers"
-    #url: /workingpapers/
 
   - title: "Talks"
     url: /talks/    
@@ -24,3 +21,6 @@ main:
      
   - #title: "Guide"
     #url: /markdown/
+
+  - #title: "Working Papers"
+    #url: /workingpapers/
