@@ -24,7 +24,7 @@ Is NAFTA the Trojan Horse of the US Insurance Industry?, _with Sinha Tapen, Inte
 
 [Consumer Durables, Permanent Terms of Trade Shocks, and the Recent U.S. Trade Deficits](www.sciencedirect.com/science/article/pii/0261560696000265), _with Kei-Mu Yi, Journal of International Money and Finance, 15(5): 797-811, 1996_
 
-** Working Papers **
+**Working Papers**
 ---
 
 [Judging the Judges: Indexing Complex Information Reduces Injustice](https://www.nber.org/papers/w32587), _with Andrew Caplin and Andrei Gomberg, NBER Working Paper, 2024_
