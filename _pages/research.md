@@ -30,7 +30,7 @@ Insurance Regulation in North America: Integrating American, Canadian and Mexica
 
 Is NAFTA the Trojan Horse of the US Insurance Industry?, _with Sinha Tapen, International Insurance Law Journal, pp.285-319, 2001_
 
-[Consumer Durables, Permanent Terms of Trade Shocks, and the Recent U.S. Trade Deficits](www.sciencedirect.com/science/article/pii/0261560696000265), _with Kei-Mu Yi, Journal of Internatiional Money and Finance, 15(5): 797-811, 1996_
+[Consumer Durables, Permanent Terms of Trade Shocks, and the Recent U.S. Trade Deficits](www.sciencedirect.com/science/article/pii/0261560696000265), _with Kei-Mu Yi, Journal of International Money and Finance, 15(5): 797-811, 1996_
 
 <!---
 {% if author.googlescholar %}
