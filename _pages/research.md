@@ -7,6 +7,12 @@ author_profile: true
 
 **Publications and Working Papers**
 ---
+
+[Information and Bargaining through Agents: Experimental Evidence from Mexico's Labor Courts](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdae003/7596323), _with Enrique Seira and Christopher Woodruff, Review of Economic Studies, 2024_
+
+[Judging the Judges: Indexing Complex Information Reduces Injustice](https://www.nber.org/papers/w32587), _with Andrew Caplin and Andrei Gomberg, NBER Working Paper, 2024_
+[Structured Payment in Pawnshop Borrowing: Mandates vs. Choice](https://ditraglia.com/pdf/pawn-paper.pdf), _with Craig McIntosh, Isaac Meza, Enrique Seira, and Francis DiTraglia, R&R Review of Economic Studies, 2024_
+
 [Information and Lawyer Quality: Evidence from a Field Experiment in a Mexican Labour Court](https://edi.opml.co.uk/wpcms/wp-content/uploads/2019/12/Pilot-3_191219-1.pdf), _with Enrique Seira and Christopher Woodruff, Economic Development and Institutions Working Paper Series, 2019_
 
 How much is it worth? Evidence on Back Pay in Unfair Dismissal Cases in Mexico, _with Jorge Luis Silva Méndez, Comparative Labour Law and Policy Journal, 36:411-422, 2015_
