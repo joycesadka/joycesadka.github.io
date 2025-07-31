@@ -8,6 +8,8 @@ author_profile: true
 **Publications**
 ---
 
+Global challenges and global skills: Lessons from the revision of a law degree study plan in Mexico, _with Ana Zorrilla, European Journal of Legal Education, 6(1):267-290, 2025_
+
 [Information and Bargaining through Agents: Experimental Evidence from Mexico's Labor Courts](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdae003/7596323), _with Enrique Seira and Christopher Woodruff, Review of Economic Studies, 2024_
 
 How much is it worth? Evidence on Back Pay in Unfair Dismissal Cases in Mexico, _with Jorge Luis Silva Méndez, Comparative Labour Law and Policy Journal, 36:411-422, 2015_
@@ -26,6 +28,10 @@ Is NAFTA the Trojan Horse of the US Insurance Industry?, _with Sinha Tapen, Inte
 
 **Working Papers**
 ---
+
+Accessing Higher Quality Justice, _with Enrique Seira and Christopher Woodruff, CEPR Discussion Paper 71443-1751690878, 2025_
+
+Labour Justice Reform in Mexico: Progress and Challenges, _with Erick Molina, Working Paper, 2025_
 
 [Judging the Judges: Indexing Complex Information Reduces Injustice](https://www.nber.org/papers/w32587), _with Andrew Caplin and Andrei Gomberg, NBER Working Paper, 2024_
 
