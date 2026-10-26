@@ -8,7 +8,7 @@ author_profile: true
 **Publications**
 ---
 
-[Structured Payment in Pawnshop Borrowing: Mandates vs. Choice](https://ditraglia.com/pdf/pawn-paper.pdf), _with Craig McIntosh, Isaac Meza, Enrique Seira, and Francis DiTraglia, Forthcoming Review of Economic Studies _
+[Structured Payment in Pawnshop Borrowing: Mandates vs. Choice](https://ditraglia.com/pdf/pawn-paper.pdf), _with Craig McIntosh, Isaac Meza, Enrique Seira, and Francis DiTraglia, Forthcoming Review of Economic Studies_
 
 [Global challenges and global skills: Lessons from the revision of a law degree study plan in Mexico](https://joycesadka.github.io/files/sadka_zorrilla_noriega_2025.pdf), _with Ana Zorrilla, European Journal of Legal Education, 6(1):267-290, 2025_
 
