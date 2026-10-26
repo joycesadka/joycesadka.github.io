@@ -31,7 +31,7 @@ Is NAFTA the Trojan Horse of the US Insurance Industry?, _with Sinha Tapen, Inte
 **Working Papers**
 ---
 
-[Information, Conciliation, and the Lawyer Market: Experimental Evidence from Mexico’s Labor Courts]([https://cepr.org/publications/dp20508](https://joycesadka.github.io/files/pilot3_2026.pdf)), _with Enrique Seira and Christopher Woodruff, 2026_
+[Information, Conciliation, and the Lawyer Market: Experimental Evidence from Mexico’s Labor Courts](https://joycesadka.github.io/files/pilot3_2026.pdf)), _with Enrique Seira and Christopher Woodruff, 2026_
 
 [Labour Justice Reform in Mexico: Progress and Challenges](https://joycesadka.github.io/files/sadka_molina_2025.pdf), _with Erick Molina, Working Paper, 2025_
 
