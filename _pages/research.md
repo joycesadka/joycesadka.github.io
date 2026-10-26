@@ -8,6 +8,8 @@ author_profile: true
 **Publications**
 ---
 
+[Structured Payment in Pawnshop Borrowing: Mandates vs. Choice](https://ditraglia.com/pdf/pawn-paper.pdf), _with Craig McIntosh, Isaac Meza, Enrique Seira, and Francis DiTraglia, Forthcoming Review of Economic Studies _
+
 [Global challenges and global skills: Lessons from the revision of a law degree study plan in Mexico](https://joycesadka.github.io/files/sadka_zorrilla_noriega_2025.pdf), _with Ana Zorrilla, European Journal of Legal Education, 6(1):267-290, 2025_
 
 [Information and Bargaining through Agents: Experimental Evidence from Mexico's Labor Courts](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdae003/7596323), _with Enrique Seira and Christopher Woodruff, Review of Economic Studies, 2024_
@@ -29,13 +31,11 @@ Is NAFTA the Trojan Horse of the US Insurance Industry?, _with Sinha Tapen, Inte
 **Working Papers**
 ---
 
-[DP20508 Accessing Higher Quality Justice](https://cepr.org/publications/dp20508), _with Enrique Seira and Christopher Woodruff, CEPR Discussion Paper No. 20508, CEPR Press, Paris and London, 2025_
+[Information, Conciliation, and the Lawyer Market: Experimental Evidence from Mexico’s Labor Courts]([https://cepr.org/publications/dp20508](https://joycesadka.github.io/files/pilot3_2026.pdf)), _with Enrique Seira and Christopher Woodruff, 2026_
 
 [Labour Justice Reform in Mexico: Progress and Challenges](https://joycesadka.github.io/files/sadka_molina_2025.pdf), _with Erick Molina, Working Paper, 2025_
 
 [Judging the Judges: Indexing Complex Information Reduces Injustice](https://www.nber.org/papers/w32587), _with Andrew Caplin and Andrei Gomberg, NBER Working Paper, 2024_
-
-[Structured Payment in Pawnshop Borrowing: Mandates vs. Choice](https://ditraglia.com/pdf/pawn-paper.pdf), _with Craig McIntosh, Isaac Meza, Enrique Seira, and Francis DiTraglia, R&R Review of Economic Studies, 2024_
 
 [Information and Lawyer Quality: Evidence from a Field Experiment in a Mexican Labour Court](https://edi.opml.co.uk/wpcms/wp-content/uploads/2019/12/Pilot-3_191219-1.pdf), _with Enrique Seira and Christopher Woodruff, Economic Development and Institutions Working Paper Series, 2019_
 
